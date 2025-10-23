@@ -18,7 +18,7 @@ I build, break, and rebuild systems to understand them deeply.
 
 ## 🚀 What I’m Building  
 
-- 🧩 **[Algorithms Playbook](https://github.com/Rounakdeepsingh/2-algorithms-playbook)**  
+- 🧩 **[Algorithms Playbook](https://github.com/Rounakdeepsingh/algorithms-playbook)**  
   Topic‑wise LeetCode solutions with insights, reusable templates, and pitfalls  
 
 - 📈 **Consistency & Growth**  
