@@ -1,45 +1,58 @@
-# 👋 Hi, I’m Rounakdeep Singh
+# 👋 Hi, I’m Rounakdeep Singh  
 
-Welcome to my GitHub space — where curiosity meets execution.
+Welcome to my GitHub — where **curiosity meets execution**.  
+I build, break, and rebuild systems to understand them deeply.  
 
 ---
 
-## 💡 About Me
+## 💡 About Me  
 
-- 💻 **Software Development & Cybersecurity Enthusiast**  
+- 💻 Software Development & Cybersecurity Enthusiast  
 - 🌱 Currently mastering **Data Structures & Algorithms (DSA)** and **Java**  
-- 🧠 Passionate about building scalable systems and understanding how things break (and how to fix them)  
-- 💞️ Open to collaborating on **impactful software projects**, especially those involving backend, security, or algorithmic challenges  
+- 🧠 Passionate about **scalable systems, problem-solving, and security**  
+- 💞️ Open to collaborating on impactful projects in backend, security, or algorithmic challenges  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rounakdeep-singh/)  
-- ⚡ Fun Fact: The first computer virus was created as an experiment — not as a malicious attack!
+- ⚡ Fun Fact: The first computer virus was created as an experiment — not as a malicious attack!  
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 What I’m Building  
 
-- 🧩 Building a [LeetCode Algorithms Notebook](https://github.com/Rounakdeepsingh/2-algorithms-playbook) with topic-wise insights, templates, and pitfalls  
-- 📈 Growing my problem-solving streak and contest rating on LeetCode  
-- 🛠️ Polishing my portfolio for SDE roles at FAANG/MAANG/Stripe  
-- 🧠 Exploring cybersecurity fundamentals and ethical hacking labs  
-- 📚 Reading about human psychology and behavioral triggers in tech
+- 🧩 **[Algorithms Playbook](https://github.com/Rounakdeepsingh/2-algorithms-playbook)**  
+  Topic‑wise LeetCode solutions with insights, reusable templates, and pitfalls  
 
----
+- 📈 **Consistency & Growth**  
+  Daily problem‑solving streaks, weekly contests, and post‑contest debriefs  
 
-## 🧠 Skills & Interests
+- 🔐 **Cybersecurity Labs**  
+  Exploring ethical hacking, system vulnerabilities, and defense strategies  
 
-- 💬 Languages: Java, Python, C++  
-- 🧪 Domains: Algorithms, Backend Development, Cybersecurity  
-- 🎯 Interests: Competitive quizzes, behavioral design, candidate branding, referral systems  
-- 🧰 Tools: Git, VS Code, Postman, Linux, SQL
+- 📚 **Knowledge Sharing**  
+  Writing structured notes, publishing solution explanations, and sharing milestones  
 
 ---
 
-## 🗣️ Let’s Connect
+## 🧠 Skills & Interests  
 
-If you’re building something exciting, solving a tough problem, or just want to talk tech — I’m all ears.  
-Let’s collaborate, learn, and build something remarkable.
+- **Languages:** Java, Python, C++  
+- **Domains:** Algorithms, Backend Development, Cybersecurity  
+- **Tools:** Git, VS Code, Postman, Linux, SQL  
+- **Interests:** Competitive quizzes, behavioral design, candidate branding, referral systems  
+
+---
+
+## 📊 GitHub Stats  
+
+![Rounakdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rounakdeepsingh&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rounakdeepsingh&layout=compact&theme=radical)  
+
+---
+
+## 🗣️ Let’s Connect  
+
+If you’re building something ambitious, solving tough problems, or exploring security — let’s connect.  
+Collaboration is where the best ideas come alive.  
 
 ---
 
 > “Every algorithm solved is a step closer to clarity. Every bug fixed is a lesson in resilience.”
-
