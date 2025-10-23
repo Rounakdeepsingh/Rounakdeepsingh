@@ -1,17 +1,16 @@
-# 👋 Hi, I’m Rounakdeep Singh  
+# 👋 Hey, I’m Rounakdeep Singh  
 
-Welcome to my GitHub — where **curiosity meets execution**.  
-I build, break, and rebuild systems to understand them deeply.  
+> 🚀 Turning curiosity into execution | Algorithms • Systems • Security  
 
 ---
 
-## 💡 About Me  
+## 🌟 About Me  
 
-- 💻 Software Development & Cybersecurity Enthusiast  
+- 💻 Developer & Cybersecurity Enthusiast  
 - 🌱 Currently mastering **Data Structures & Algorithms (DSA)** and **Java**  
-- 🧠 Passionate about **scalable systems, problem-solving, and security**  
-- 💞️ Open to collaborating on impactful projects in backend, security, or algorithmic challenges  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rounakdeep-singh/)  
+- 🧠 Fascinated by how systems scale, break, and can be secured  
+- 💞️ Open to collaborating on **backend, security, and algorithmic projects**  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rounakdeep-singh/)  
 - ⚡ Fun Fact: The first computer virus was created as an experiment — not as a malicious attack!  
 
 ---
@@ -19,32 +18,46 @@ I build, break, and rebuild systems to understand them deeply.
 ## 🚀 What I’m Building  
 
 - 🧩 **[Algorithms Playbook](https://github.com/Rounakdeepsingh/algorithms-playbook)**  
-  Topic‑wise LeetCode solutions with insights, reusable templates, and pitfalls  
+  Topic‑wise LeetCode solutions with **insights, reusable templates, and pitfalls**  
 
 - 📈 **Consistency & Growth**  
   Daily problem‑solving streaks, weekly contests, and post‑contest debriefs  
 
 - 🔐 **Cybersecurity Labs**  
-  Exploring ethical hacking, system vulnerabilities, and defense strategies  
+  Exploring ethical hacking, vulnerabilities, and defense strategies  
 
 - 📚 **Knowledge Sharing**  
   Writing structured notes, publishing solution explanations, and sharing milestones  
 
 ---
 
-## 🧠 Skills & Interests  
+## 🧠 Skills & Tech Stack  
 
-- **Languages:** Java, Python, C++  
-- **Domains:** Algorithms, Backend Development, Cybersecurity  
-- **Tools:** Git, VS Code, Postman, Linux, SQL  
-- **Interests:** Competitive quizzes, behavioral design, candidate branding, referral systems  
+**Languages:**  
+`Java` · `Python` · `C++`  
+
+**Domains:**  
+`Algorithms` · `Backend Development` · `Cybersecurity`  
+
+**Tools & Platforms:**  
+`Git` · `VS Code` · `Postman` · `Linux` · `SQL`  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
-![Rounakdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rounakdeepsingh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rounakdeepsingh&layout=compact&theme=radical)  
+![Rounakdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rounakdeepsingh&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rounakdeepsingh&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Rounakdeepsingh&theme=tokyonight&hide_border=true)  
+
+---
+
+## 🏆 Highlights  
+
+- 🔥 Building a **1,000+ problem algorithms notebook** with topic‑wise mastery  
+- 🏅 Maintaining **30‑day streaks** and contest discipline  
+- 📖 Publishing **200+ solution writeups** and contest debriefs  
+- 🌍 Sharing milestones on LinkedIn to inspire and connect  
 
 ---
 
@@ -55,4 +68,4 @@ Collaboration is where the best ideas come alive.
 
 ---
 
-> “Every algorithm solved is a step closer to clarity. Every bug fixed is a lesson in resilience.”
+> 💡 *“Every algorithm solved is a step closer to clarity. Every bug fixed is a lesson in resilience.”*
