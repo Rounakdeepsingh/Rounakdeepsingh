@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Rounakdeep Singh  
 
-> 🚀 Turning curiosity into execution | Algorithms • Systems • Security  
+> 🚀 Algorithms • Systems • Security  
 
 ---
 
@@ -8,23 +8,19 @@
 
 - 💻 Developer & Cybersecurity Enthusiast  
 - 🌱 Currently mastering **Data Structures & Algorithms (DSA)** and **Java**  
-- 🧠 Fascinated by how systems scale, break, and can be secured  
+- 🧠 Curious about how systems scale, break, and can be secured  
 - 💞️ Open to collaborating on **backend, security, and algorithmic projects**  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rounakdeep-singh/)  
-- ⚡ Fun Fact: The first computer virus was created as an experiment — not as a malicious attack!  
 
 ---
 
-## 🚀 What I’m Building  
+## 🚀 Projects & Initiatives  
 
 - 🧩 **[Algorithms Playbook](https://github.com/Rounakdeepsingh/algorithms-playbook)**  
-  Topic‑wise LeetCode solutions with **insights, reusable templates, and pitfalls**  
-
-- 📈 **Consistency & Growth**  
-  Daily problem‑solving streaks, weekly contests, and post‑contest debriefs  
+  Topic‑wise LeetCode solutions with reusable templates and insights  
 
 - 🔐 **Cybersecurity Labs**  
-  Exploring ethical hacking, vulnerabilities, and defense strategies  
+  Hands‑on exploration of vulnerabilities, exploits, and defense strategies  
 
 - 📚 **Knowledge Sharing**  
   Writing structured notes, publishing solution explanations, and sharing milestones  
@@ -54,18 +50,19 @@
 
 ## 🏆 Highlights  
 
-- 🔥 Building a **1,000+ problem algorithms notebook** with topic‑wise mastery  
-- 🏅 Maintaining **30‑day streaks** and contest discipline  
-- 📖 Publishing **200+ solution writeups** and contest debriefs  
-- 🌍 Sharing milestones on LinkedIn to inspire and connect  
+- 🔥 Building a **1,000+ problem algorithms notebook**  
+- 🏅 Maintaining **coding streaks** and contest discipline  
+- 📖 Publishing **solution writeups** and post‑contest debriefs  
+- 🌍 Sharing milestones to inspire and connect with the community  
 
 ---
 
 ## 🗣️ Let’s Connect  
 
 If you’re building something ambitious, solving tough problems, or exploring security — let’s connect.  
-Collaboration is where the best ideas come alive.  
 
 ---
 
-> 💡 *“Every algorithm solved is a step closer to clarity. Every bug fixed is a lesson in resilience.”*
+> 💡 *“Every algorithm solved is a step closer to clarity. Every bug fixed is a lesson in resilience.”*  
+
+---
