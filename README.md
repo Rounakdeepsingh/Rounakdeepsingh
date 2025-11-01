@@ -1,68 +1,59 @@
-# 👋 Hey, I’m Rounakdeep Singh  
+# 👋 Hey, I’m Rounakdeep Singh
 
-> 🚀 Algorithms • Systems • Security  
-
----
-
-## 🌟 About Me  
-
-- 💻 Developer & Cybersecurity Enthusiast  
-- 🌱 Currently mastering **Data Structures & Algorithms (DSA)** and **Java**  
-- 🧠 Curious about how systems scale, break, and can be secured  
-- 💞️ Open to collaborating on **backend, security, and algorithmic projects**  
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rounakdeep-singh/)  
+> A developer and security enthusiast focused on the fundamentals: building efficient algorithms, understanding scalable systems, and securing them.
 
 ---
 
-## 🚀 Projects & Initiatives  
+## 🚀 Core Focus & Philosophy
 
-- 🧩 **[Algorithms Playbook](https://github.com/Rounakdeepsingh/algorithms-playbook)**  
-  Topic‑wise LeetCode solutions with reusable templates and insights  
+My current work centers on a disciplined approach to problem-solving and continuous learning.
 
-- 🔐 **Cybersecurity Labs**  
-  Hands‑on exploration of vulnerabilities, exploits, and defense strategies  
+* 🧠 **Mastering DSA:** Actively building a **[1,000+ problem algorithms notebook](https://github.com/Rounakdeepsingh/algorithms-playbook)**, complete with topic-wise solutions and reusable templates.
+* 🔐 **Exploring Systems & Security:** Hands-on exploration of how systems scale, break, and can be defended.
+* 📚 **Sharing Knowledge:** Publishing solution writeups and post-contest debriefs to solidify understanding.
 
-- 📚 **Knowledge Sharing**  
-  Writing structured notes, publishing solution explanations, and sharing milestones  
-
----
-
-## 🧠 Skills & Tech Stack  
-
-**Languages:**  
-`Java` · `Python` · `C++`  
-
-**Domains:**  
-`Algorithms` · `Backend Development` · `Cybersecurity`  
-
-**Tools & Platforms:**  
-`Git` · `VS Code` · `Postman` · `Linux` · `SQL`  
+* 💞️ **Open to collaborating on:** Backend, security, and algorithmic projects.
+* 📫 **Connect with me:** **[LinkedIn](https://www.linkedin.com/in/rounakdeep-singh/)**
 
 ---
 
-## 📊 GitHub Analytics  
+## 🛠️ Technology Stack
 
-![Rounakdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rounakdeepsingh&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rounakdeepsingh&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Rounakdeepsingh&theme=tokyonight&hide_border=true)  
+### Languages
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
----
+### Domains
+![Algorithms](https://img.shields.io/badge/Algorithms-F29111?style=for-the-badge&logo=databricks&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend_Dev-000000?style=for-the-badge&logo=serverless&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00A65A?style=for-the-badge&logo=hackthebox&logoColor=white)
 
-## 🏆 Highlights  
-
-- 🔥 Building a **1,000+ problem algorithms notebook**  
-- 🏅 Maintaining **coding streaks** and contest discipline  
-- 📖 Publishing **solution writeups** and post‑contest debriefs  
-- 🌍 Sharing milestones to inspire and connect with the community  
-
----
-
-## 🗣️ Let’s Connect  
-
-If you’re building something ambitious, solving tough problems, or exploring security — let’s connect.  
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-> 💡 *“Every algorithm solved is a step closer to clarity. Every bug fixed is a lesson in resilience.”*  
+## Featured Projects
+
+### 🧩 [Algorithms Playbook](https://github.com/Rounakdeepsingh/algorithms-playbook)
+My central repository for topic-wise LeetCode solutions, reusable code templates, and detailed algorithmic insights.
+
+### 🔐 [Cybersecurity Labs](https://github.com/Rounakdeepsingh/YOUR-CYBERSECURITY-REPO)
+*(Recommended: Create a repo for this)*
+A portfolio of hands-on labs exploring vulnerabilities (e.g., SQLi, XSS) and defense strategies.
 
 ---
+
+## 📊 GitHub Analytics
+
+![Rounakdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rounakdeepsingh&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rounakdeepsingh&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Rounakdeepsingh&theme=tokyonight&hide_border=true)
+
+---
+
+> 💡 *“Every algorithm solved is a step closer to clarity. Every bug fixed is a lesson in resilience.”*
