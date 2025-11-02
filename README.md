@@ -8,7 +8,7 @@
 
 My current work centers on a disciplined approach to problem-solving and continuous learning.
 
-* 🧠 **Mastering DSA:** Actively building a **[1,000+ problem algorithms notebook](https://github.com/Rounakdeepsingh/algorithms-playbook)**, complete with topic-wise solutions and reusable templates.
+* 🧠 **Mastering DSA:** Actively solving Data Structures & Algorithms.
 * 🔐 **Exploring Systems & Security:** Hands-on exploration of how systems scale, break, and can be defended.
 * 📚 **Sharing Knowledge:** Publishing solution writeups and post-contest debriefs to solidify understanding.
 
@@ -34,17 +34,6 @@ My current work centers on a disciplined approach to problem-solving and continu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## Featured Projects
-
-### 🧩 [Algorithms Playbook](https://github.com/Rounakdeepsingh/algorithms-playbook)
-My central repository for topic-wise LeetCode solutions, reusable code templates, and detailed algorithmic insights.
-
-### 🔐 [Cybersecurity Labs](https://github.com/Rounakdeepsingh/YOUR-CYBERSECURITY-REPO)
-*(Recommended: Create a repo for this)*
-A portfolio of hands-on labs exploring vulnerabilities (e.g., SQLi, XSS) and defense strategies.
 
 ---
 
